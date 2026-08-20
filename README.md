@@ -25,11 +25,11 @@
 <table align="center">
     <tr>
         <td align="center" width=50%>
-            <img width="1310" height="888" alt="Home page" src="https://github.com/AGXMX666/llama.cpp/docs/img/ChineseLocalizationEffect1.png" />
+            <img width="1310" height="888" alt="Home page" src="https://github.com/AGXMX666/llama.cpp/blob/main/docs/img/ChineseLocalizationEffect1.png" />
             <i>Home page / 首页</i>
         </td>
         <td align="center">
-            <img width="1392" height="958" alt="It can be automatically detected by the browser, or you can set it freely" src="https://github.com/AGXMX666/llama.cpp/docs/img/ChineseLocalizationEffect2.png" />
+            <img width="1392" height="958" alt="It can be automatically detected by the browser, or you can set it freely" src="https://github.com/AGXMX666/llama.cpp/blob/main/docs/img/ChineseLocalizationEffect2.png" />
             <i>It can be automatically detected by the browser, or you can set it freely. / 可以根据浏览器自动识别,也能自由设置.</i>
         </td>
     </tr>
