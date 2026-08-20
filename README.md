@@ -20,8 +20,9 @@
 
 </div>
 
-## Chinese localization effect (汉化效果)
 
+## Chinese localization effect / 汉化效果
+- [BLAS](docs/llama-ui-zh.md)
 <table align="center">
     <tr>
         <td align="center" width=50%>
