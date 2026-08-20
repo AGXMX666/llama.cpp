@@ -22,7 +22,7 @@
 
 
 ## Chinese localization effect / 汉化效果
-- [BLAS](docs/llama-ui-zh.md)
+- [Introduction / 介绍](docs/llama-ui-zh.md)
 <table align="center">
     <tr>
         <td align="center" width=50%>
